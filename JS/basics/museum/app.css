@@ -25,3 +25,17 @@ body{
 
 }
 
+#headingGroup span{
+    color: red;
+}
+#headingGroup h2{
+    font-weight: 100;
+    font-size: 4rem
+}
+
+@media (max-width: 1200px){
+    #headingGroup h2{
+        font-weight: 100;
+        font-size: 3rem
+    }
+}
