@@ -7,19 +7,20 @@ body{
 
 .square{
     width: 30%;
-    background: purple;
-    padding-bottom: 30%;
-    float: left;
-    margin: 1.66%;
-    border-radius: 15%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15%;
     transition: background-color 0.45s;
     --webkit-transition: background-color 0.45;
     -moz-transition: background-color 0.45;
 }
 
 #container{
-    max-width: 600px;
+    
     margin: 20px auto;
+    max-width: 600px;
 
 }
 
